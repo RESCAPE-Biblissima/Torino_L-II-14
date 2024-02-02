@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT8230" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT4782" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4781" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT4780" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT4779" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4778" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4777" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/><OtherTag ID="BT4776" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT4775" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT4774" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT4773" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT4772" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/>
+    <OtherTag ID="BT9584" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT8230" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT4782" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4781" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT4780" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT4779" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4778" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4777" LABEL="MainZone#2" DESCRIPTION="block type MainZone#2"/><OtherTag ID="BT4776" LABEL="MainZone#1" DESCRIPTION="block type MainZone#1"/><OtherTag ID="BT4775" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT4774" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT4773" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT4772" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/>
     <OtherTag ID="LT2905" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT1543" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1542" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1541" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1540" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -105,7 +105,7 @@
                     WIDTH="1425"
                     HEIGHT="271">
             <Shape><Polygon POINTS="2247 675 2205 679 2160 684 2114 689 2095 689 2035 698 1796 735 1741 725 1709 721 1705 721 1585 739 1562 744 1516 753 1475 762 1429 771 1383 781 1337 790 1291 803 1245 813 1236 781 1199 776 1208 863 1213 918 1351 872 2624 762 2624 712 2615 647 2307 656 2242 661 2247 675"/></Shape>
-	    <String CONTENT="d ũ wef .i. marc dargent un besãt dune poire"
+	    <String CONTENT="d ũ uuef .i. marc dargent un besãt dune poire"
                     HPOS="1199"
                     VPOS="647"
                     WIDTH="1425"
@@ -139,7 +139,7 @@
                     WIDTH="1489"
                     HEIGHT="230">
             <Shape><Polygon POINTS="1213 1001 1213 1038 2693 937 2693 882 2679 808 1204 932 1213 1001"/></Shape>
-	    <String CONTENT="⁊ qnͣt il se rendirent fait en ent grãt desoiure"
+	    <String CONTENT="⁊ qnͣt il se rendirent fait en ont grãt desoiure"
                     HPOS="1204"
                     VPOS="808"
                     WIDTH="1489"
@@ -173,7 +173,7 @@
                     WIDTH="1016"
                     HEIGHT="189">
             <Shape><Polygon POINTS="1208 1180 1208 1208 2215 1125 2215 1079 2201 1019 1199 1102 1208 1180"/></Shape>
-	    <String CONTENT="p lus de lx᷑ ensiꝯiou espoire"
+	    <String CONTENT="p lus de .lx᷑. ensiꝯ iou espoire"
                     HPOS="1199"
                     VPOS="1019"
                     WIDTH="1016"
@@ -292,7 +292,7 @@
                     WIDTH="1186.0"
                     HEIGHT="211.0">
             <Shape><Polygon POINTS="1199 2026 1199 2071 1833 2021 1865 2035 1939 2062 1944 2062 1948 2062 1953 2062 1957 2062 1957 2058 1989 2026 1994 2021 1994 2026 2091 2062 2095 2062 2100 2062 2297 2053 2302 2053 2307 2053 2376 2003 2376 1957 2362 1860 1190 1938 1199 2026"/></Shape>
-	    <String CONTENT="E xplicit li roumans de uaspasien"
+	    <String CONTENT="E xplicit li roumans de uaspasien ."
                     HPOS="1190.0"
                     VPOS="1860.0"
                     WIDTH="1186.0"
