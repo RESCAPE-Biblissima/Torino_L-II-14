@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
 	<Creator>escriptorium</Creator>
-	<Created>2023-11-16T14:55:57.305121+00:00</Created>
-        <LastChange>2023-11-16T14:55:57.305162+00:00</LastChange>
+	<Created>2024-02-19T20:26:13.899310+00:00</Created>
+        <LastChange>2024-02-19T20:26:13.899374+00:00</LastChange>
 
   </Metadata>
   <Page imageFilename="IT-TO0265_MSL_II_14_Tome_02_0145.jpg" imageWidth="8215" imageHeight="5096">
@@ -17,7 +17,7 @@
         <Coords points="3130,535 3088,535 3045,535 3003,535 2960,535 2918,539 2875,539 2833,539 2790,539 2748,539 2705,539 2663,547 2620,556 2578,564 2535,569 2493,577 2450,586 2408,586 2365,586 2323,586 2281,586 2238,586 2196,586 2153,586 2111,581 2068,577 2026,569 1983,569 1941,569 1898,569 1856,573 1813,573 1771,573 1733,607 1733,653 1851,641 1894,653 1945,675 1949,675 1953,675 1958,675 1962,675 1996,653 2004,649 2064,649 2378,666 2382,666 2671,653 2676,653 2718,632 2739,624 3143,624 3143,560 3134,526 3130,535"/>
         <Baseline points="1737,611 2412,618 2747,576 2985,571 3145,564"/>
         <TextEquiv>
-          <Unicode>Ensi ꝯme legues tua se port en le soiest te leus</Unicode>
+          <Unicode>Ensi ꝯme begues tua le porc en le forest de lens</Unicode>
         </TextEquiv>
       </TextLine>
 
@@ -122,7 +122,7 @@
         <Coords points="1677,2208 1673,2242 2676,2259 2684,2225 2680,2161 1677,2140 1677,2208"/>
         <Baseline points="1681,2209 2687,2228"/>
         <TextEquiv>
-          <Unicode>l a secombat ꝯme hardis senglers</Unicode>
+          <Unicode>l a se combat ꝯme hardis senglers</Unicode>
         </TextEquiv>
       </TextLine>
 
@@ -251,8 +251,8 @@
       <TextLine id="eSc_line_917002ba" >
         <Coords points="1665,3129 1660,3180 2561,3210 2569,3159 2565,3095 1665,3066 1665,3129"/>
         <Baseline points="1668,3132 2571,3162"/>
-        <TextEquiv conf="0.982996020466089">
-          <Unicode>l i pors loi sa le cies sus leue</Unicode>
+        <TextEquiv>
+          <Unicode>l i pors loi sa le cie[f] sus leue</Unicode>
         </TextEquiv>
       </TextLine>
 
@@ -377,7 +377,7 @@
         <Coords points="3585,760 3542,755 3500,755 3457,751 3415,751 3372,751 3330,747 3287,747 3245,747 3202,747 3160,747 3117,751 3075,751 3032,755 2990,755 2947,755 2905,760 2862,760 2820,785 2824,811 2824,849 3610,836 3614,806 3606,760 3585,760"/>
         <Baseline points="2827,812 3118,805 3357,818 3616,811"/>
         <TextEquiv>
-          <Unicode>l i cien le bouient qͥ mlt̃ lont desĩre</Unicode>
+          <Unicode>l i cien le bouient qͥ mlt̃ lont desire</Unicode>
         </TextEquiv>
       </TextLine>
 
@@ -457,7 +457,7 @@
         <Coords points="2875,1397 3438,1343 3759,1233 3734,1163 3483,1231 2862,1303 2871,1358"/>
         <Baseline points="2873,1360 3432,1305 3718,1208"/>
         <TextEquiv>
-          <Unicode>n e il ni ot ne compaignon n per</Unicode>
+          <Unicode>n e il ni ot ne compaignon ne per</Unicode>
         </TextEquiv>
       </TextLine>
 
@@ -567,7 +567,7 @@
         <Coords points="3793,2136 3750,2131 3720,2127 2901,2085 2901,2157 2896,2182 3844,2229 3852,2199 3852,2144 3835,2140"/>
         <Baseline points="2904,2160 3565,2177 3854,2202"/>
         <TextEquiv>
-          <Unicode>c e fu icix qui le bos duc garder</Unicode>
+          <Unicode>c e fu icix qui le bos dut garder</Unicode>
         </TextEquiv>
       </TextLine>
 
@@ -577,7 +577,7 @@
         <Coords points="2922,2157 2884,2157 2884,2229 2879,2259 3720,2288 3729,2254 3729,2199 2964,2161 2926,2161"/>
         <Baseline points="2887,2230 3732,2256"/>
         <TextEquiv>
-          <Unicode>b ñ ot oi le conte tot torne</Unicode>
+          <Unicode>b ñ ot oi le conte cot corne</Unicode>
         </TextEquiv>
       </TextLine>
 
@@ -647,7 +647,7 @@
         <Coords points="2871,2773 3933,2773 3937,2726 3924,2662 2867,2662 2871,2730"/>
         <Baseline points="2873,2734 3939,2729"/>
         <TextEquiv>
-          <Unicode>d rois les sourcix ⁊ le front plaĩ ⁊let</Unicode>
+          <Unicode>d rois les sourcix ⁊ le front plaĩ ⁊ let</Unicode>
         </TextEquiv>
       </TextLine>
 
@@ -707,7 +707,7 @@
         <Coords points="3589,3087 3546,3091 3504,3095 3461,3095 3419,3100 3376,3100 3334,3100 3291,3100 3249,3100 3206,3100 3164,3100 3147,3100 2867,3104 2871,3168 2871,3210 3873,3172 3873,3134 3861,3078 3652,3083 3631,3087"/>
         <Baseline points="2873,3170 3451,3165 3876,3136"/>
         <TextEquiv>
-          <Unicode>l i maus le cieres le prist a redouter</Unicode>
+          <Unicode>l i maus lecieres le prist a redouter</Unicode>
         </TextEquiv>
       </TextLine>
 
@@ -757,7 +757,7 @@
         <Coords points="2862,3533 2854,3554 3066,3635 3071,3635 3240,3656 3368,3669 3852,3813 3865,3792 3886,3690 3763,3639 3759,3639 3589,3613 3529,3609 3491,3592 3381,3541 3376,3541 3058,3469 3054,3469 3011,3473 2964,3478 2905,3452 2879,3452"/>
         <Baseline points="2867,3534 3072,3575 3366,3637 3400,3652 3565,3694 3587,3705 3709,3731 3754,3765 3868,3796"/>
         <TextEquiv>
-          <Unicode>l i max le cieres ainc ne fina derrer</Unicode>
+          <Unicode>l i max lecieres ainc ne fina derrer</Unicode>
         </TextEquiv>
       </TextLine>
 
@@ -817,7 +817,7 @@
         <Coords points="3669,3991 3640,3983 3627,3983 3585,3974 3572,3970 3181,3885 3168,3885 3130,3877 3088,3868 3045,3864 3003,3855 2998,3847 2960,3838 2952,3906 2939,3945 3737,4102 3746,4068 3746,4008 3708,4000 3708,4004"/>
         <Baseline points="2953,3909 3505,4014 3565,4031 3748,4071"/>
         <TextEquiv>
-          <Unicode>[b]ele maisniẽ ueneour [⁊] archier</Unicode>
+          <Unicode>[b]ele maisnie ueneour [⁊] archier</Unicode>
         </TextEquiv>
       </TextLine>
 
