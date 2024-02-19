@@ -76,7 +76,7 @@
                     WIDTH="565"
                     HEIGHT="94">
             <Shape><Polygon POINTS="5063 816 5063 854 5620 845 5624 807 5611 760 5059 765 5063 816"/></Shape>
-	    <String CONTENT="⁊ iou irai semesage ꝯter"
+	    <String CONTENT="⁊ iou irai [l]emesage ꝯter"
                     HPOS="5059"
                     VPOS="760"
                     WIDTH="565"
@@ -93,7 +93,7 @@
                     WIDTH="701"
                     HEIGHT="102">
             <Shape><Polygon POINTS="5513 820 5471 820 5428 820 5386 820 5343 820 5301 820 5258 820 5216 820 5173 820 5131 820 5088 820 5084 816 5046 816 5050 875 5050 918 5743 905 5747 867 5739 816 5586 816 5556 820"/></Shape>
-	    <String CONTENT="⁊ le souscours se iepuis amener"
+	    <String CONTENT="⁊ le souscours se ie puis amener"
                     HPOS="5046"
                     VPOS="816"
                     WIDTH="701"
@@ -246,7 +246,7 @@
                     WIDTH="722"
                     HEIGHT="208">
             <Shape><Polygon POINTS="5467 1415 5424 1415 5382 1406 5339 1402 5301 1394 5258 1389 5216 1381 5173 1377 5131 1372 5088 1364 5050 1360 5046 1355 5012 1351 5003 1398 4995 1449 5705 1559 5717 1513 5717 1445 5522 1419 5509 1419"/></Shape>
-	    <String CONTENT="si houme sunt arme ⁊feruesti"
+	    <String CONTENT="si houme sunt arme ⁊ feruesti"
                     HPOS="4995"
                     VPOS="1351"
                     WIDTH="722"
@@ -274,51 +274,34 @@
           
           <TextLine ID="eSc_line_a1bfb613"
                     
-                    BASELINE="4998 1462 5242 1538 5606 1572" 
-                    HPOS="4986"
-                    VPOS="1419"
-                    WIDTH="617"
-                    HEIGHT="196">
-            <Shape><Polygon POINTS="5543 1500 5501 1496 5458 1491 5416 1487 5373 1483 5331 1479 5288 1474 5246 1470 5207 1457 5165 1449 5127 1436 5003 1419 4995 1462 4986 1496 5020 1513 5590 1615 5603 1568 5603 1508 5547 1500 5543 1500"/></Shape>
-	    <String CONTENT="iont ouuert ⁊portes ⁊postis"
-                    HPOS="4986"
-                    VPOS="1419"
-                    WIDTH="617"
-                    HEIGHT="196"></String>
+                    BASELINE="4935 1435 5242 1538 5606 1572" 
+                    HPOS="4927"
+                    VPOS="1377"
+                    WIDTH="676"
+                    HEIGHT="238">
+            <Shape><Polygon POINTS="5348 1479 5305 1474 5267 1470 5246 1466 5173 1457 5071 1419 5059 1419 5020 1406 5016 1402 4944 1377 4931 1432 4927 1449 4927 1479 5186 1559 5190 1559 5590 1615 5603 1568 5603 1508 5373 1479 5348 1479"/></Shape>
+	    <String CONTENT="s i ont ouuert ⁊portes ⁊postis"
+                    HPOS="4927"
+                    VPOS="1377"
+                    WIDTH="676"
+                    HEIGHT="238"></String>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_6a2a2e79"
+          <TextLine ID="eSc_line_144cf5c8"
                     
-                    BASELINE="4989 1501 5165 1598 5546 1626" 
+                    BASELINE="4866 1621 5052 1630 4989 1501 5165 1598 5546 1626" 
                     HPOS="4974"
                     VPOS="1483"
                     WIDTH="569"
                     HEIGHT="195">
             <Shape><Polygon POINTS="5161 1632 5165 1632 5530 1678 5543 1623 5539 1568 5203 1534 5046 1483 4986 1500 4974 1568"/></Shape>
-	    <String CONTENT="i dus .h̾. sest a la uoie mis"
+	    <String CONTENT="l [i] [du]s .h̾. sest a la uoie mis"
                     HPOS="4974"
                     VPOS="1483"
                     WIDTH="569"
                     HEIGHT="195"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_02449d85"
-                    
-                    BASELINE="4866 1621 5052 1630" 
-                    HPOS="4859"
-                    VPOS="1530"
-                    WIDTH="191"
-                    HEIGHT="123">
-            <Shape><Polygon POINTS="4859 1653 4901 1653 5046 1653 5050 1627 5046 1559 4863 1530 4863 1619"/></Shape>
-	    <String CONTENT="l [ ]"
-                    HPOS="4859"
-                    VPOS="1530"
-                    WIDTH="191"
-                    HEIGHT="123"></String>
           </TextLine>
 
           
@@ -331,7 +314,7 @@
                     WIDTH="948"
                     HEIGHT="187">
             <Shape><Polygon POINTS="5156 1598 5152 1593 5105 1589 5101 1589 5097 1589 5037 1610 5033 1610 5025 1627 4982 1627 4940 1623 4897 1623 4893 1602 4854 1602 4854 1657 4846 1700 5786 1776 5794 1729 5790 1649 5675 1666 5386 1627 5199 1602 5156 1598"/></Shape>
-	    <String CONTENT="f orment sen caucẽt ligloutõ maleis"
+	    <String CONTENT="f orment [se]n caucẽt li gloutõ maleis"
                     HPOS="4846"
                     VPOS="1589"
                     WIDTH="948"
@@ -348,7 +331,7 @@
                     WIDTH="671"
                     HEIGHT="136">
             <Shape><Polygon POINTS="5450 1700 5365 1695 5360 1695 5352 1691 4850 1666 4850 1717 4842 1763 5505 1802 5513 1768 5513 1704 5488 1704"/></Shape>
-	    <String CONTENT="i l se deffent ꝯ ch̾̾r hardis"
+	    <String CONTENT="i l se deffent ꝯ ch̾r hardis"
                     HPOS="4842"
                     VPOS="1666"
                     WIDTH="671"
@@ -365,7 +348,7 @@
                     WIDTH="834"
                     HEIGHT="166">
             <Shape><Polygon POINTS="4978 1729 4935 1725 4893 1721 4850 1721 4846 1776 4837 1814 5662 1887 5671 1848 5666 1789 5037 1734 5016 1734"/></Shape>
-	    <String CONTENT=".u. en a mort ason espies fourbi"
+	    <String CONTENT=".u. en a mort ason espiel fourbi"
                     HPOS="4837"
                     VPOS="1721"
                     WIDTH="834"
@@ -399,7 +382,7 @@
                     WIDTH="910"
                     HEIGHT="204">
             <Shape><Polygon POINTS="5059 1870 5016 1865 4974 1861 4931 1857 4888 1853 4846 1848 4842 1904 4833 1955 5730 2052 5743 2001 5739 1955 5144 1878 5101 1874"/></Shape>
-	    <String CONTENT="s iꝯliliures le nos tes mongne ⁊ dist"
+	    <String CONTENT="s iꝯ li liures le nos tes mongne ⁊ dist"
                     HPOS="4833"
                     VPOS="1848"
                     WIDTH="910"
@@ -416,7 +399,7 @@
                     WIDTH="837"
                     HEIGHT="182">
             <Shape><Polygon POINTS="5441 1989 5399 1980 5356 1976 5318 1972 5305 1967 4854 1921 4850 1963 4842 2006 5156 2065 5666 2103 5679 2065 5679 2010 5522 1993 5484 1993"/></Shape>
-	    <String CONTENT="m ies .ont assisse qui est au duc . h̾."
+	    <String CONTENT="m ies . ont assisse qui est au duc . h̾."
                     HPOS="4842"
                     VPOS="1921"
                     WIDTH="837"
@@ -518,7 +501,7 @@
                     WIDTH="961"
                     HEIGHT="323">
             <Shape><Polygon POINTS="5356 2384 5314 2375 5271 2363 5233 2354 5190 2346 5161 2337 4774 2265 4765 2312 4748 2384 4871 2456 4876 2456 5101 2511 5679 2588 5709 2482 5658 2435 5428 2388 5399 2388"/></Shape>
-	    <String CONTENT="n ot plus felõ dus ques liaue dourm"
+	    <String CONTENT="n ot plus felõ dus ques liaue dou rin"
                     HPOS="4748"
                     VPOS="2265"
                     WIDTH="961"
@@ -637,7 +620,7 @@
                     WIDTH="718"
                     HEIGHT="192">
             <Shape><Polygon POINTS="4893 3179 5598 3094 5598 3060 5586 2987 4880 3072 4888 3136"/></Shape>
-	    <String CONTENT="g ñs mercis sire ce dist lidus .h̾̾."
+	    <String CONTENT="g ñs mercis sire ce dist lidus .h̾."
                     HPOS="4880"
                     VPOS="2987"
                     WIDTH="718"
@@ -654,7 +637,7 @@
                     WIDTH="752"
                     HEIGHT="174">
             <Shape><Polygon POINTS="4893 3238 5632 3162 5632 3128 5620 3064 4880 3136 4888 3200"/></Shape>
-	    <String CONTENT="a gñt le soing uꝰ ai ichi reqius"
+	    <String CONTENT="a gñt be soing uꝰ ai ichi requis"
                     HPOS="4880"
                     VPOS="3064"
                     WIDTH="752"
@@ -671,7 +654,7 @@
                     WIDTH="701"
                     HEIGHT="166">
             <Shape><Polygon POINTS="4901 3298 5594 3230 5594 3200 5581 3132 4893 3204 4901 3264"/></Shape>
-	    <String CONTENT="e nur̃e fief mont .sarr̃ . asis"
+	    <String CONTENT="e n ur̃e fief mont .sarr̃ . asis"
                     HPOS="4893"
                     VPOS="3132"
                     WIDTH="701"
@@ -688,7 +671,7 @@
                     WIDTH="850"
                     HEIGHT="199">
             <Shape><Polygon POINTS="5590 3183 5586 3183 5577 3204 5564 3204 5560 3213 5496 3213 5454 3217 5411 3217 5369 3221 5326 3225 5284 3230 5241 3234 5199 3238 5156 3242 5114 3247 5071 3251 5042 3251 4901 3272 4910 3332 4910 3361 5751 3302 5751 3255 5739 3162 5598 3179 5594 3179 5590 3179"/></Shape>
-	    <String CONTENT="leual de mies mont ia ꝑ force pris"
+	    <String CONTENT="l e ual de mies mont ia ꝑ force pris"
                     HPOS="4901"
                     VPOS="3162"
                     WIDTH="850"
@@ -705,7 +688,7 @@
                     WIDTH="765"
                     HEIGHT="149">
             <Shape><Polygon POINTS="4940 3387 4940 3425 5700 3378 5700 3340 5688 3276 4944 3327 4935 3332"/></Shape>
-	    <String CONTENT="s iuieng a uous emꝑeres gentis"
+	    <String CONTENT="s i uieng a uous emꝑeres gentis"
                     HPOS="4935"
                     VPOS="3276"
                     WIDTH="765"
@@ -722,7 +705,7 @@
                     WIDTH="821"
                     HEIGHT="161">
             <Shape><Polygon POINTS="5624 3349 5603 3349 4948 3400 4952 3455 4952 3497 5769 3438 5769 3404 5756 3336 5666 3340 5666 3344"/></Shape>
-	    <String CONTENT="q̾ uous uenes nostre fiext garancir"
+	    <String CONTENT="q̾ uous uenes nostre fie⟦x⟧t garantir"
                     HPOS="4948"
                     VPOS="3336"
                     WIDTH="821"
@@ -739,7 +722,7 @@
                     WIDTH="957"
                     HEIGHT="170">
             <Shape><Polygon POINTS="5717 3408 5705 3408 5671 3412 5628 3417 5586 3417 5543 3421 5501 3421 5458 3425 5416 3429 5373 3429 5331 3434 5288 3438 5246 3438 5203 3442 5161 3442 5118 3446 5076 3451 5033 3451 4991 3455 4948 3455 4952 3514 4952 3570 5905 3519 5905 3468 5892 3400 5751 3404 5751 3408"/></Shape>
-	    <String CONTENT="s e uous nel faites nous soumes malbailli"
+	    <String CONTENT="s e uous nel faites [no]us soumes malbailli"
                     HPOS="4948"
                     VPOS="3400"
                     WIDTH="957"
@@ -756,12 +739,11 @@
                     WIDTH="825"
                     HEIGHT="149">
             <Shape><Polygon POINTS="4957 3638 5773 3595 5777 3557 5764 3489 4952 3540 4957 3599"/></Shape>
-	    <String CONTENT="c ar libaron doiuent deuous denir"
+	    <String CONTENT="c ar li baron doiuent de uous tenir"
                     HPOS="4952"
                     VPOS="3489"
                     WIDTH="825"
-                    HEIGHT="149"
-                    WC="0.966202593210972"></String>
+                    HEIGHT="149"></String>
           </TextLine>
 
           
@@ -791,7 +773,7 @@
                     WIDTH="888"
                     HEIGHT="106">
             <Shape><Polygon POINTS="4982 3752 5862 3735 5866 3701 5854 3646 4978 3667 4982 3727"/></Shape>
-	    <String CONTENT="c ui que ie faille uous ne doi iou fallir"
+	    <String CONTENT="c ui que ie faille uous ne toi iou fallir"
                     HPOS="4978"
                     VPOS="3646"
                     WIDTH="888"
@@ -808,7 +790,7 @@
                     WIDTH="714"
                     HEIGHT="102">
             <Shape><Polygon POINTS="5003 3825 5709 3812 5713 3778 5700 3723 4999 3735 5003 3795"/></Shape>
-	    <String CONTENT="g ñs m̾chis sire ce dist li dus .h̾."
+	    <String CONTENT="g nͣs m̾chis sire ce dist li dus .h̾."
                     HPOS="4999"
                     VPOS="3723"
                     WIDTH="714"
@@ -825,7 +807,7 @@
                     WIDTH="800"
                     HEIGHT="128">
             <Shape><Polygon POINTS="5641 3782 5598 3782 5556 3782 5513 3786 5471 3786 5428 3786 5386 3786 5343 3791 5301 3791 5258 3791 5216 3791 5173 3795 5131 3795 5088 3795 5046 3795 5003 3795 5008 3854 5011 3893 5044 3889 5075 3899 5102 3899 5135 3895 5162 3895 5193 3896 5217 3902 5242 3899 5259 3899 5270 3899 5287 3902 5307 3895 5340 3898 5377 3894 5398 3890 5406 3894 5430 3887 5462 3884 5496 3882 5514 3885 5553 3888 5593 3872 5620 3884 5659 3871 5696 3875 5737 3878 5758 3875 5798 3888 5803 3837 5790 3774 5683 3774 5683 3782"/></Shape>
-	    <String CONTENT="c ar aule soing uoit li hons son ami"
+	    <String CONTENT="c ar aubesoing uoit li hons son ami"
                     HPOS="5003"
                     VPOS="3774"
                     WIDTH="800"
@@ -852,7 +834,7 @@
                     WIDTH="829"
                     HEIGHT="149">
             <Shape><Polygon POINTS="6024 722 6019 743 6840 799 6848 769 6844 709 6194 650 6189 650 6024 658 6024 722"/></Shape>
-	    <String CONTENT="s a tont li faut qñt li aiderail"
+	    <String CONTENT="s a dont li faut qñt li aiderail"
                     HPOS="6019"
                     VPOS="650"
                     WIDTH="829"
@@ -869,7 +851,7 @@
                     WIDTH="850"
                     HEIGHT="136">
             <Shape><Polygon POINTS="6823 769 6780 769 6738 765 6695 765 6653 760 6615 756 6572 756 6529 752 6487 752 6444 748 6402 748 6359 743 6317 739 6274 739 6232 735 6189 735 6147 731 6104 731 6062 726 6019 722 6019 777 6015 833 6857 858 6865 816 6865 748 6823 743 6823 769"/></Shape>
-	    <String CONTENT="[l] i rois se liene si a [qu]elle ama[nis]"
+	    <String CONTENT="[l] i rois se lieue si a [qu]elle ama[nis]"
                     HPOS="6015"
                     VPOS="722"
                     WIDTH="850"
@@ -903,7 +885,7 @@
                     WIDTH="736"
                     HEIGHT="115">
             <Shape><Polygon POINTS="6007 913 6002 943 6729 969 6738 930 6738 879 6007 854 6007 913"/></Shape>
-	    <String CONTENT="n ot si felen en .lx̃. pais"
+	    <String CONTENT="n ot si felon en .lx. pais"
                     HPOS="6002"
                     VPOS="854"
                     WIDTH="736"
@@ -920,7 +902,7 @@
                     WIDTH="961"
                     HEIGHT="149">
             <Shape><Polygon POINTS="6738 909 6738 913 6721 930 6704 947 6598 947 6236 922 6211 922 6168 918 6126 918 6083 918 6041 918 6036 905 5998 905 5998 981 5994 1011 6946 1054 6955 1011 6955 913 6751 909 6746 909 6742 909 6738 909 6738 909"/></Shape>
-	    <String CONTENT="e n une chambre les atous .iii. mis"
+	    <String CONTENT="e n une chambre les atous .iiii. mis"
                     HPOS="5994"
                     VPOS="905"
                     WIDTH="961"
@@ -988,7 +970,7 @@
                     WIDTH="973"
                     HEIGHT="145">
             <Shape><Polygon POINTS="5964 1253 5960 1283 6126 1313 6925 1330 6933 1279 6933 1228 5964 1185 5964 1253"/></Shape>
-	    <String CONTENT="q̾ roi me fist mangre mes anemis"
+	    <String CONTENT="q̾ roi me fist maugre mes anemis"
                     HPOS="5960"
                     VPOS="1185"
                     WIDTH="973"
@@ -1022,12 +1004,11 @@
                     WIDTH="939"
                     HEIGHT="123">
             <Shape><Polygon POINTS="5977 1389 5973 1428 6904 1466 6912 1419 6908 1364 5977 1343 5977 1389"/></Shape>
-	    <String CONTENT="l aissies ester liquens hardres a dit"
+	    <String CONTENT="l aissies ester li quens hardres a dit"
                     HPOS="5973"
                     VPOS="1343"
                     WIDTH="939"
-                    HEIGHT="123"
-                    WC="0.977286188989072"></String>
+                    HEIGHT="123"></String>
           </TextLine>
 
           
@@ -1057,7 +1038,7 @@
                     WIDTH="875"
                     HEIGHT="136">
             <Shape><Polygon POINTS="5977 1542 5973 1581 6840 1610 6848 1564 6844 1496 5977 1474 5977 1542"/></Shape>
-	    <String CONTENT="s ise puet bñ tenser ⁊ garantir"
+	    <String CONTENT="s i se puet bñ tenser ⁊ garantir"
                     HPOS="5973"
                     VPOS="1474"
                     WIDTH="875"
@@ -1125,7 +1106,7 @@
                     WIDTH="854"
                     HEIGHT="123">
             <Shape><Polygon POINTS="5977 1814 5973 1853 6819 1882 6827 1844 6823 1789 5977 1759 5977 1814"/></Shape>
-	    <String CONTENT="g asta la t̾re ⁊ destruist le pais."
+	    <String CONTENT="g asta la t̾re ⁊ destruist le pais"
                     HPOS="5973"
                     VPOS="1759"
                     WIDTH="854"
@@ -1176,7 +1157,7 @@
                     WIDTH="918"
                     HEIGHT="115">
             <Shape><Polygon POINTS="5968 2031 5964 2065 6874 2091 6882 2052 6882 1997 5968 1976 5968 2031"/></Shape>
-	    <String CONTENT="a dont ires setant se puet tenir"
+	    <String CONTENT="a dont ires se tant se puet tenir"
                     HPOS="5964"
                     VPOS="1976"
                     WIDTH="918"
@@ -1262,12 +1243,11 @@
                     WIDTH="1037"
                     HEIGHT="111">
             <Shape><Polygon POINTS="5960 2388 5956 2418 6984 2435 6993 2397 6989 2337 5960 2324 5960 2388"/></Shape>
-	    <String CONTENT="d etous les princes de contes demarcis"
+	    <String CONTENT="d etous les princes de contes de marcis"
                     HPOS="5956"
                     VPOS="2324"
                     WIDTH="1037"
-                    HEIGHT="111"
-                    WC="0.99596370207636"></String>
+                    HEIGHT="111"></String>
           </TextLine>
 
           
@@ -1280,7 +1260,7 @@
                     WIDTH="931"
                     HEIGHT="106">
             <Shape><Polygon POINTS="5956 2452 5951 2503 6878 2503 6882 2465 6878 2409 5956 2397 5956 2452"/></Shape>
-	    <String CONTENT="e n non dieu rois ce dist li dus .h̾̾ ."
+	    <String CONTENT="e n non dieu rois ce dist li dus .h̾ ."
                     HPOS="5951"
                     VPOS="2397"
                     WIDTH="931"
@@ -1348,7 +1328,7 @@
                     WIDTH="953"
                     HEIGHT="102">
             <Shape><Polygon POINTS="5934 2775 6882 2779 6887 2741 6887 2677 5934 2677 5934 2741"/></Shape>
-	    <String CONTENT="u ur̃es peres. fu naures ⁊ malmis"
+	    <String CONTENT="u ur̃es peres fu naures ⁊ malmis"
                     HPOS="5934"
                     VPOS="2677"
                     WIDTH="953"
@@ -1382,7 +1362,7 @@
                     WIDTH="909"
                     HEIGHT="106">
             <Shape><Polygon POINTS="5939 2919 6848 2911 6848 2877 6844 2813 5939 2813 5939 2877"/></Shape>
-	    <String CONTENT="uꝰ fouriugoient lignͣt ⁊ li petit"
+	    <String CONTENT="uꝰ fouriugoient li gnͣt ⁊ li petit"
                     HPOS="5939"
                     VPOS="2813"
                     WIDTH="909"
@@ -1399,7 +1379,7 @@
                     WIDTH="1016"
                     HEIGHT="102">
             <Shape><Polygon POINTS="5939 2987 6950 2987 6955 2958 6950 2894 5943 2885 5943 2949"/></Shape>
-	    <String CONTENT="c ourõnai uous mangre uos anemis"
+	    <String CONTENT="c ourõnai uous maugre uos anemis"
                     HPOS="5939"
                     VPOS="2885"
                     WIDTH="1016"
@@ -1416,7 +1396,7 @@
                     WIDTH="1012"
                     HEIGHT="106">
             <Shape><Polygon POINTS="5956 3038 5956 3068 6959 3068 6963 3026 6950 2962 5951 2975 5956 3038"/></Shape>
-	    <String CONTENT="⁊ [d]e hardre uo maistr[e] que uoi chi"
+	    <String CONTENT="⁊ [d]e hardre uo maist[$$] que uoi chi"
                     HPOS="5951"
                     VPOS="2962"
                     WIDTH="1012"
@@ -1433,7 +1413,7 @@
                     WIDTH="1012"
                     HEIGHT="93">
             <Shape><Polygon POINTS="5964 3136 6976 3128 6976 3098 6976 3043 5964 3043 5964 3098"/></Shape>
-	    <String CONTENT="qͥ [i]ous deffent que m[$$$] auoec mi"
+	    <String CONTENT="qͥ [$]ous deffent que m[$$$] auoec mi"
                     HPOS="5964"
                     VPOS="3043"
                     WIDTH="1012"
@@ -1450,7 +1430,7 @@
                     WIDTH="1059"
                     HEIGHT="127">
             <Shape><Polygon POINTS="6904 3102 6861 3102 6819 3102 6776 3102 6734 3102 6691 3102 6649 3102 6606 3102 6563 3102 6521 3102 6487 3102 5968 3106 5973 3174 5973 3221 7023 3196 7027 3162 7014 3094 6946 3094 6946 3102"/></Shape>
-	    <String CONTENT="s ecours uois querre qñt auons ai failli"
+	    <String CONTENT="s e[c]ours uois querre qñt auons ai failli"
                     HPOS="5968"
                     VPOS="3094"
                     WIDTH="1059"
@@ -1484,7 +1464,7 @@
                     WIDTH="867"
                     HEIGHT="110">
             <Shape><Polygon POINTS="5968 3353 6823 3357 6831 3310 6819 3247 5964 3259 5968 3319"/></Shape>
-	    <String CONTENT="n es [$]ras mais ta[n]t ꝯie soie nis"
+	    <String CONTENT="n es [$]ras mais ta[n]t ꝯ ie soie nis"
                     HPOS="5964"
                     VPOS="3247"
                     WIDTH="867"
@@ -1501,7 +1481,7 @@
                     WIDTH="982"
                     HEIGHT="98">
             <Shape><Polygon POINTS="5973 3425 6946 3425 6950 3387 6938 3327 5968 3336 5973 3395"/></Shape>
-	    <String CONTENT="n e s[$]nt hardres bñ uous auons o[t]"
+	    <String CONTENT="n e s[$]nt hardres bñ uous auons o[i]"
                     HPOS="5968"
                     VPOS="3327"
                     WIDTH="982"
@@ -1518,7 +1498,7 @@
                     WIDTH="817"
                     HEIGHT="89">
             <Shape><Polygon POINTS="5973 3463 5973 3493 6780 3489 6785 3459 6772 3404 5968 3404 5973 3463"/></Shape>
-	    <String CONTENT="qͥ tes [$]roi de uous le uoeil oir"
+	    <String CONTENT="qͥ tes [$]roi de uou[s] le uoeil oir"
                     HPOS="5968"
                     VPOS="3404"
                     WIDTH="817"
@@ -1535,7 +1515,7 @@
                     WIDTH="804"
                     HEIGHT="106">
             <Shape><Polygon POINTS="5985 3578 6780 3574 6785 3531 6776 3472 5981 3472 5985 3544"/></Shape>
-	    <String CONTENT="o il di il foi que doi .sꝰ. denis"
+	    <String CONTENT="o il di[$] il foi que doi .sꝰ. denis"
                     HPOS="5981"
                     VPOS="3472"
                     WIDTH="804"
@@ -1552,7 +1532,7 @@
                     WIDTH="926"
                     HEIGHT="114">
             <Shape><Polygon POINTS="5977 3650 6895 3633 6899 3599 6887 3536 5973 3561 5977 3621"/></Shape>
-	    <String CONTENT="l i dus entourne [q]ue ꝯgie niapris"
+	    <String CONTENT="l i dus [e]ntourne [q]ue ꝯgie nia pris"
                     HPOS="5973"
                     VPOS="3536"
                     WIDTH="926"
@@ -1569,7 +1549,7 @@
                     WIDTH="922"
                     HEIGHT="123">
             <Shape><Polygon POINTS="5981 3731 6895 3706 6899 3672 6887 3608 5977 3621 5981 3689"/></Shape>
-	    <String CONTENT="u int a[$] ambrai lendemaia ausert"
+	    <String CONTENT="u int a[$]ambrai l[e]ndemain auseri"
                     HPOS="5977"
                     VPOS="3608"
                     WIDTH="922"
@@ -1586,7 +1566,7 @@
                     WIDTH="829"
                     HEIGHT="124">
             <Shape><Polygon POINTS="5985 3808 6062 3782 6802 3778 6806 3740 6793 3684 5977 3697 5981 3757"/></Shape>
-	    <String CONTENT="i llec to[$]uua ⁊ p[i]rens ⁊amis"
+	    <String CONTENT="i llec t[$$]uua ⁊ p[$]rens ⁊ amis"
                     HPOS="5977"
                     VPOS="3684"
                     WIDTH="829"
@@ -1603,7 +1583,7 @@
                     WIDTH="843"
                     HEIGHT="127">
             <Shape><Polygon POINTS="5977 3871 6036 3868 6085 3861 6140 3862 6177 3852 6225 3852 6286 3855 6327 3858 6354 3854 6381 3855 6398 3867 6440 3860 6478 3861 6493 3861 6521 3860 6544 3868 6572 3858 6614 3857 6646 3858 6685 3860 6720 3859 6758 3858 6793 3858 6816 3861 6806 3808 6793 3744 5973 3769 5977 3825"/></Shape>
-	    <String CONTENT="s ionche [$$] ⁊ si ge[$]main cousin"
+	    <String CONTENT="s i oncle [$$̾] ⁊ si ge[$]main cousin"
                     HPOS="5973"
                     VPOS="3744"
                     WIDTH="843"
